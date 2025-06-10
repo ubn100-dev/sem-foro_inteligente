@@ -16,11 +16,7 @@ https://utpedupe-my.sharepoint.com/:f:/g/personal/u21322528_utp_edu_pe/Ei59Eqqe5
 ## 📅 Avances semanales
 | Semana | Actividad realizada | Responsable |
 |--------|-----------------------------------------------|---------------------|
-| 1 | Diseño inicial del circuito en Tinkercad | Alva Huaman |
-| 2 | Entrenamiento modelo IA con Roboflow (v1.0) | Chavez Pacherre |
-| 3 | Programación Arduino + Integración con Python | Carrasco Nuñez |
-| 4 | Pruebas de campo en prototipo físico | Añazco Urcia |
-| 5 | Documentación final y métricas de impacto | Velarde Cristóbal |
+
 
 ## 📊 Métricas Clave
 | Variable | Resultado | Mejora vs Sistema Tradicional |
@@ -40,10 +36,7 @@ https://utpedupe-my.sharepoint.com/:f:/g/personal/u21322528_utp_edu_pe/Ei59Eqqe5
 ## 📜 CHANGELOG (Resumen)
 | Versión | Fecha | Hito |
 |---------|-------|------|
-| v1.0 | 2025-05-30 | Diseño inicial en simuladores |
-| v1.2 | 2025-06-05 | Primer prototipo físico funcional |
-| v2.0 | 2025-06-10 | Integración completa con IA |
-| **v2.1** | **2025-06-15** | **Optimización de parámetros finales** |
+
 
 [Ver CHANGELOG completo](/docs/CHANGELOG.md)
 
