@@ -25,6 +25,14 @@ https://utpedupe-my.sharepoint.com/:f:/g/personal/u21322528_utp_edu_pe/Ei59Eqqe5
 | Precisión de detección | 92% | ↑ 15% |
 | Eficiencia energética | 75% | ↑ 20% |
 
+
+```bash
+pip install opencv-python
+pip install numpy
+pip install pyserial
+pip install shapely
+pip install ultralytics
+
 ## 🔗 Enlaces relevantes
 - [📂 Carpeta compartida en Drive](https://drive.google.com/...) *(Informes completos y videos crudos)*
 - [🖥️ Circuito en Tinkercad](https://www.tinkercad.com/...)
