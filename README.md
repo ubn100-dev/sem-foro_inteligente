@@ -25,6 +25,14 @@ https://utpedupe-my.sharepoint.com/:f:/g/personal/u21322528_utp_edu_pe/Ei59Eqqe5
 | Precisión de detección | 92% | ↑ 15% |
 | Eficiencia energética | 75% | ↑ 20% |
 
+
+## 📦 Requisitos del Sistema
+
+### Python
+
+- Python 3.8 o superior
+- Sistema operativo Windows, Linux o macOS
+
 ## 📚 Librerías necesarias
 
 ### 1. Instalación de dependencias
