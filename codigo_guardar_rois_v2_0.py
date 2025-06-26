@@ -4,7 +4,7 @@ import json
 from shapely.geometry import Polygon
 
 #  Configuración 
-video_path = ("") #Ahí va la ruta del video para simular o la cam
+video_path = ("") # Cambia por la ruta de tu video o cámara
 
 #  Abrir video 
 cap = cv2.VideoCapture(video_path)
