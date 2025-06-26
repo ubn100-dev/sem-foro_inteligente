@@ -4,10 +4,10 @@ import json
 from shapely.geometry import Polygon
 
 #  Configuración 
-video_path = ("evitamiento2.mp4")
+video_path = ("") #Ahí va la ruta del video para simular o la cam
 
 #  Abrir video 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(video_path)
 
 if not cap.isOpened():
     print("No se pudo abrir el video.")
