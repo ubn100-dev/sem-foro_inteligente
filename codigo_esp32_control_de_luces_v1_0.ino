@@ -1,6 +1,6 @@
 #include <WiFi.h>
 
-// Pines seguros
+// Pines 
 const int verde1 = 4;
 const int amarillo1 =21;
 const int rojo1 = 16;
