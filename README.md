@@ -11,7 +11,7 @@ Optimizar el flujo vehicular en intersecciones congestionadas mediante un sistem
 - **Velarde Cristóbal Elvis Mervin** – Rol: Documentación y pruebas
 
 ## 📁 Estructura del proyecto
-https://utpedupe-my.sharepoint.com/:f:/g/personal/u21322528_utp_edu_pe/Ei59Eqqe5PhLgAFmXGi56TkBhrdhClC2hV-fOS-Gx3t_Xw?e=dxyzfo
+https://utpedupe-my.sharepoint.com/:f:/g/personal/u21322528_utp_edu_pe/EtikuJpp6EBAkdOij-xqh_oBvnbyOeyloDZmsH7t-3uDNA?e=1P3YCz 
 
 ## 📅 Avances semanales
 | Semana | Actividad realizada | Responsable |
