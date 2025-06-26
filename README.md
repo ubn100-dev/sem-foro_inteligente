@@ -64,4 +64,4 @@ pip install ultralytics
 ## 💡 Cómo contribuir
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/semaforo-inteligente.git
+   git clone https://github.com/ubn100-dev/sem-foro_inteligente.git
