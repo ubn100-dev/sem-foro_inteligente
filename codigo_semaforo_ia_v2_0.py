@@ -9,7 +9,7 @@ from ultralytics import YOLO
 # Modelo YOLO
 model = YOLO('yolov8n.pt')
 
-# Parámetros del sistema
+# Parámetros
 modo_manual = False
 ESP32_IP = '192.168.18.50'  # ← Cambia por la IP de tu ESP32 en tu red
 ESP32_PORT = 80
