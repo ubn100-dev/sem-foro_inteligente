@@ -8,6 +8,7 @@ Este archivo documenta los cambios importantes realizados en el proyecto.
 - Implementado control de luces mediante ESP32.
 - Agregado sistema de control de semáforo usando IA
 - Definidas Regiones de Interés (ROIs) para la detección de vehículos.
+- Comunicación entre ESP32 y laptop mediante WIFI.
 
 ### Cambiado
 - Reorganizado el código en módulos separados
@@ -15,3 +16,4 @@ Este archivo documenta los cambios importantes realizados en el proyecto.
 
 ### Corregido
 - Solucionado problema de sincronización entre detección de vehículos y cambio de luces.
+- Solucionado error que impedía el cambio correcto de luces en ciertos ciclos.
