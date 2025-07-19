@@ -40,7 +40,11 @@ pip install shapely
 pip install ultralytics
 
 2. Pasos
-a.
+a. Conectar el sistema
+b. Compilar el codigo codigo_esp32_control_de_luces_v1_0.ino en el esp32
+c. Ejecutar el codigo guardar rosi
+d. Seleccionar y guardar la zona de interés
+e. Abrir el codigo del semaforo
 
 ## 🔗 Enlaces relevantes
 - [📂 Carpeta compartida en Drive](https://utpedupe-my.sharepoint.com/personal/u21322528_utp_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu21322528_utp_edu_pe%2FDocuments%2FEstructura%20del%20proyecto&ga=1)
