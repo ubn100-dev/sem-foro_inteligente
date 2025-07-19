@@ -13,11 +13,6 @@ Optimizar el flujo vehicular en intersecciones congestionadas mediante un sistem
 ## 📁 Estructura del proyecto
 https://utpedupe-my.sharepoint.com/:f:/g/personal/u21322528_utp_edu_pe/EtikuJpp6EBAkdOij-xqh_oBvnbyOeyloDZmsH7t-3uDNA?e=1P3YCz 
 
-## 📅 Avances semanales
-| Semana | Actividad realizada | Responsable |
-|--------|-----------------------------------------------|---------------------|
-
-
 ## 📊 Métricas Clave
 | Variable | Resultado | Mejora vs Sistema Tradicional |
 |----------|-----------|-------------------------------|
