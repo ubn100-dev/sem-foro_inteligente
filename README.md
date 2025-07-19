@@ -39,22 +39,11 @@ pip install pyserial
 pip install shapely
 pip install ultralytics
 
+2. Pasos
+a.
+
 ## 🔗 Enlaces relevantes
-- [📂 Carpeta compartida en Drive](https://drive.google.com/...) *(Informes completos y videos crudos)*
-- [🖥️ Circuito en Tinkercad](https://www.tinkercad.com/...)
-- [🧠 Modelo IA en Roboflow](https://app.roboflow.com/...)
-- [📽️ Video demostrativo](https://youtu.be/...)
-
----
-
-## 📜 CHANGELOG (Resumen)
-| Versión | Fecha | Hito |
-|---------|-------|------|
-
-
-[Ver CHANGELOG completo](/docs/CHANGELOG.md)
-
----
+- [📂 Carpeta compartida en Drive](https://utpedupe-my.sharepoint.com/personal/u21322528_utp_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu21322528_utp_edu_pe%2FDocuments%2FEstructura%20del%20proyecto&ga=1)
 
 ## 💡 Cómo contribuir
 1. Clona el repositorio:  
