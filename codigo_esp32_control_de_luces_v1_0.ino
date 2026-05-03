@@ -2,7 +2,7 @@
 
 // Definición de pines para los LEDs de los semáforos
 const int verde1 = 4;
-const int amarillo1 = 21;
+const int amarillo1 = 19;
 const int rojo1 = 16;
 const int verde2 = 17;
 const int amarillo2 = 18;
